@@ -1,4 +1,4 @@
-# AL-PHASE-3
+# AI-PHASE-3
 Hi I am IRAIYANBU .PS
 Creating a README for a Market Basket Analysis project on GitHub is a great way to explain your project's purpose, usage, and how others can contribute or use your code. Below is a sample README for a Market Basket Analysis project:
 
